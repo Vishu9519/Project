@@ -1,2 +1,2 @@
 # Project
- B.Tech Project
+ B.Tech Internship Project
